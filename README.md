@@ -30,7 +30,9 @@ Used for determining whether a leaked/found Google Maps API Key is vulnerable to
 ```
 $ git clone https://github.com/alexbieber/Google_map_api_scanner.git
 ```
+```
 $ cd Google_map_api_scanner
+```
 ```
 $ python gmap_api_scanner.py --api-key (API_KEY)
 ```
