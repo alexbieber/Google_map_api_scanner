@@ -81,7 +81,7 @@ $  python3 maps_api_scanner_python3.py --api-key (API_KEY)
 :: Workflow ::
 </h3>
 <p align="center">
-<img src="https://i.gifer.com/EYuK.gif"/>
+<img src="https://www.edreams.com/blog/wp-content/uploads/sites/3/2016/03/globe-map.gif"/>
 </p>
  <a href="https://www.buymeacoffee.com/alexbieber" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
