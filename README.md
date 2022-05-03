@@ -27,8 +27,8 @@ Used for determining whether a leaked/found Google Maps API Key is vulnerable to
 
 
 # USAGE:->
-- For python run -> `python gmap_api_scanner.py --api-key API_KEY` .
-- For python3 run-> `python3 maps_api_scanner_python3.py --api-key API_KEY`. 
+- For python run -> `python gmap_api_scanner.py --api-key (API_KEY)` .
+- For python3 run-> `python3 maps_api_scanner_python3.py --api-key (API_KEY)`. 
 
 
 ### Installation
