@@ -6,6 +6,13 @@ Used for determining whether a leaked/found Google Maps API Key is vulnerable to
 <p align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-1.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/alexbieber/Google_map_api_scanner?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/alexbieber/Google_map_api_scanner?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/alexbieber/Google_map_api_scanner?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/alexbieber/Google_map_api_scanner?color=teal&style=for-the-badge">
+</p>
 <p align="left">
   <a href="https://github.com/alexbieber/Google_map_api_scanner/tree/master/Google_map_api_scanner/modules">
     <img src="https://img.shields.io/badge/Call%20for%20Modules-OPEN-green?style=plastic"/>
